@@ -44,10 +44,7 @@
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeganxthan&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeganxthan&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeganxthan&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeganxthan&theme=react-dark)
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=jegan67&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jegan67&theme=radical)
