@@ -11,7 +11,7 @@
 ---
 
 ### Tech Stack
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://skillicons.dev/icons?i=python,linux,docker,git,github,mongodb,vite,firebase,nodejs,nextjs,react,express,tailwind,ts)
+https://skillicons.dev/icons?i=python,linux,docker,git,github,mongodb,vite,firebase,nodejs,nextjs,react,express,tailwind,ts
 
 
 
