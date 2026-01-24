@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=python,linux,docker,git,github,mongodb,vite,firebase,nodejs,nextjs,react,express,tailwind,ts)
+![Tech Stack](https://skillicons.dev/icons?i=python,linux,docker,git,github,mongodb,vite,firebase,nodejs,nextjs,react,express,tailwind,ts,java,golang)
 
 
 ---
