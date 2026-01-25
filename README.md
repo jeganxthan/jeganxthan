@@ -2,7 +2,7 @@
 
 👋 Hi, I’m **jeganathan**, a passionate developer and lifelong learner.  
 
-💻 I specialize in **web development** (React, Node.js, Tailwind CSS) and backend technologies using **Golang and js**. I enjoy building **practical applications**, exploring new technologies, and sharing knowledge through code.  
+💻 I specialize in **web development** (React, Node.js, Tailwind CSS) and backend technologies using **Java and js**. I enjoy building **practical applications**, exploring new technologies, and sharing knowledge through code.  
 
 🌱 Currently, I’m diving deeper into **backend development**, **full-stack projects**, and building scalable applications on **Linux** environments.  
 
@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=python,linux,docker,git,github,mongodb,vite,firebase,nodejs,nextjs,react,express,tailwind,ts,java,golang)
+![Tech Stack](https://skillicons.dev/icons?i=python,linux,docker,git,github,mongodb,vite,firebase,nodejs,nextjs,react,express,tailwind,ts,java)
 
 
 ---
