@@ -27,7 +27,4 @@
 
 ## 📊 GitHub Stats
 
-![Jeganathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeganxthan&hide=contribs,prs)
-![Jeganathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeganxthan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeganxthan&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=jeganxthan&theme=radical&cache_seconds=1800)
