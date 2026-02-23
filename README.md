@@ -25,8 +25,10 @@
 ---
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeganxthan&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeganxthan&layout=compact&theme=radical)
+![Jegan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeganxthan&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeganxthan&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeganxthan&layout=compact&theme=radical&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jeganxthan&theme=radical&cache_seconds=1800)
