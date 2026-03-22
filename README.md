@@ -23,7 +23,7 @@
 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Jeganathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeganxthan&show_icons=true&theme=transparent)
 
 ## 📊 GitHub Stats
 
