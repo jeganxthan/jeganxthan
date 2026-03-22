@@ -26,6 +26,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jeganxthan&theme=radical&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=jeganxthan&theme=radical&cache_seconds=2000)
 
-[![Jeganathan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeganxthan&theme=dracula)](https://github.com/jeganxthan/github-readme-activity-graph)
+[![Jeganathan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeganxthan&theme=xcode)](https://github.com/jeganxthan/github-readme-activity-graph)
