@@ -23,6 +23,7 @@
 
 
 ---
+![Jeganathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeganxthan&hide=contribs,prs)
 
 ## 📊 GitHub Stats
 
